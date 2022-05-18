@@ -1,4 +1,4 @@
-# 👋 Hi, I’m BAl Elsada Hasun
+# 👋 Hi, I’m Bal Elsada Hasun
 
 - 🌱 I'm currently studying computer programming and working within the design and development of websites <br>
 - 👨‍💻 All of my projects are available at https://github.com/BalHasun
