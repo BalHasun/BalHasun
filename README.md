@@ -1,8 +1,9 @@
 # 👋 Hi, I’m Bal Elsada Hasun
 
 - 🌱 I'm currently studying computer programming and working within the design and development of websites <br>
+- 👨‍ My personal website briefly presents some details and experiences https://balhasun.github.io/personal-site/index.html
 - 👨‍💻 All of my projects are available at https://github.com/BalHasun
-- 📫 How to reach me fouadhason@gmail.com
+- 📫 How to reach me bal.elsada.web@gmail.com
 <!--- 📝 I regularly write articles on --->
 
 <h3 align="left">Connect with me:</h3>
