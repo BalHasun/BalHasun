@@ -56,4 +56,7 @@
 </a>
 </p>
  <hr/>
- <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username==true&theme=true&locale=en&layout=compact" alt="Bal-Elsada" align=left/></p>
+<!--   
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Bal-Elsada&show_icons=true&locale=en" alt="Bal-Elsada" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Bal-Elsada&" alt="Bal-Elsada" /></p>
+                                                                                                                -->
