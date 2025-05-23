@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Bal Elsada Hasun — مرحبًا!
+# 👋 Hi there, I'm Bal Elsada Hasun.
 
 I'm a passionate and dedicated **Front-End Developer** with a strong foundation in **computer programming** and hands-on experience building modern web applications. I love turning creative ideas into user-friendly, responsive, and accessible websites.  
 
