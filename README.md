@@ -73,11 +73,11 @@ Born in **Damascus in 1996**, I graduated from **Ondokuz Mayıs University** (Co
 
 ---
 
-## 📈 GitHub Stats (Optional)
+## 📈 GitHub Stats
 
  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BalHasun&show_icons=true&theme=tokyonight" />
+<!--   <img src="https://github-readme-stats.vercel.app/api?username=BalHasun&show_icons=true&theme=tokyonight" /> -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=BalHasun&theme=tokyonight" />
 </p>
  
