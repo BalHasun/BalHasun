@@ -66,10 +66,10 @@ Born in **Damascus in 1996**, I graduated from **Ondokuz Mayıs University** (Co
 
 ## 💬 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/kusay-elhalife)
+[![LinkedIn](https://img.shields.io/badge/linkedin-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bal-elsada-hasun/)
 [![Twitter](https://img.shields.io/badge/twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/HasonFouad)
 [![Instagram](https://img.shields.io/badge/instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/bal_elsada/)
-📧 **bal.elsada.web@gmail.com**
+📧 **info@balelsada.com**
 
 ---
 
